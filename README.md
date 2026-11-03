@@ -3,7 +3,11 @@
 <h3 align="center">🤠 Cyber Security Cowpoke</h3>
 
 <p align="center">
-  <strong>Information Security Student | Blue Team | Network Infrastructure</strong>
+  <img
+    src="https://raw.githubusercontent.com/rafaelpozzebon0-dot/rafaelpozzebon0-dot/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 <p align="center">
