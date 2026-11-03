@@ -29,6 +29,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.svg?palette=github
 
+      - name: Remove progress bar
+        run: |
+          sed -i 's#<rect class="u u0"[^>]*/>##g' dist/github-snake.svg
+          sed -i 's#<rect class="u u0"[^>]*/>##g' dist/github-snake-dark.svg
+
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
