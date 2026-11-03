@@ -21,7 +21,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaelpozzebon0-dot/rafaelpozzebon0-dot/output/github-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
